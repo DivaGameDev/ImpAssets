@@ -1,0 +1,5 @@
+1.create a new image under canvas 
+2.attach touch field script to it
+3.add CineTouch script to freeLook camera
+4.drop that ui image as reference to the cineTouch script and also camera
+5.adjust sensitivity
